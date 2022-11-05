@@ -6,6 +6,9 @@ local app_root, argv = ...
 io.stdout:setvbuf('line')
 
 local help = [=[
+
+ ** DEV **
+
 Usage: howl [options] [<file> [, <file>, ..]]
 
 Where options can be any of:
